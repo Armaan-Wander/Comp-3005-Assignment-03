@@ -16,8 +16,8 @@ public class assignment3p1 {
     public static void main(String[] args) {
         //Connecting to DB code from slides
         String url = "jdbc:postgresql://localhost/Assignment 03";
-        String user = "armaan";
-        String password = "password";
+        String user = "--YOURUSER--";
+        String password = "--YOURPASSWORD--";
         try { 
             Class.forName("org.postgresql.Driver");
 

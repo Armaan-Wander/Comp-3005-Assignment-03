@@ -12,4 +12,4 @@ java assignment3p1
 
 then the code will run
 
-link to video : 
+link to video : https://youtu.be/nhuEksv6tos
